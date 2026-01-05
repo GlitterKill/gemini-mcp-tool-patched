@@ -11,6 +11,8 @@
 
 </div>
 
+## This is a version of the v1.1.2 release of https://github.com/jamubc/gemini-mcp-tool that has been patched to work with Windows.  
+
 > 📚 **[View Full Documentation](https://glitterkill.github.io/gemini-mcp-tool-patched/)** - Search me!, Examples, FAQ, Troubleshooting, Best Practices
 
 This is a simple Model Context Protocol (MCP) server that allows AI assistants to interact with the [Gemini CLI](https://github.com/google-gemini/gemini-cli). It enables the AI to leverage the power of Gemini's massive token window for large analysis, especially with large files and codebases using the `@` syntax for direction.
