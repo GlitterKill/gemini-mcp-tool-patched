@@ -12,6 +12,9 @@
 </div>
 
 ## This is a version of the v1.1.2 release of https://github.com/jamubc/gemini-mcp-tool that has been patched to work with Windows.  
+## This MCP server works with a Gemini API key or OAuth credentials (allowing Google AI Pro use via Gemini CLI).
+
+> 📚 **[View Patch Documentation](https://github.com/GlitterKill/gemini-mcp-tool-patched/blob/main/GEMINI_MCP_FIX.md)**
 
 > 📚 **[View Full Documentation](https://glitterkill.github.io/gemini-mcp-tool-patched/)** - Search me!, Examples, FAQ, Troubleshooting, Best Practices
 
